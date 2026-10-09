@@ -932,7 +932,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="O9yjb9VoDEw3rQaHvFh5" name="Level 1 (3)">
-    <mxGraphModel dx="2036" dy="1357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1226" dy="817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1071,14 +1071,14 @@
         <mxCell id="eJWFlB93_dIQVSEsWOKI-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=9;" value="Data kandidat pemenuhan" vertex="1">
           <mxGeometry height="11" width="90" x="407.37" y="197" as="geometry" />
         </mxCell>
-        <mxCell id="eJWFlB93_dIQVSEsWOKI-13" edge="1" parent="1" source="vsariObLKsTUToV4vn0i-1" style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="FHzp717DIssDgz5Sa7iu-12" value="">
-          <mxGeometry height="50" relative="1" width="50" x="0.2167" as="geometry">
+        <mxCell id="eJWFlB93_dIQVSEsWOKI-13" edge="1" parent="1" source="vsariObLKsTUToV4vn0i-1" style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="FHzp717DIssDgz5Sa7iu-12" value="">
+          <mxGeometry height="50" relative="1" width="50" x="0.0888" as="geometry">
             <mxPoint x="514" y="130" as="sourcePoint" />
             <mxPoint x="440" y="181" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eJWFlB93_dIQVSEsWOKI-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=9;" value="Data klaim pemenuhan kewajiban" vertex="1">
-          <mxGeometry height="11" width="175" x="353" y="255" as="geometry" />
+          <mxGeometry height="11" width="197" x="353" y="255" as="geometry" />
         </mxCell>
         <mxCell id="eJWFlB93_dIQVSEsWOKI-15" edge="1" parent="1" source="uhedhz7RDQvyxq5WaoR9-1" style="endArrow=classic;html=1;rounded=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="FHzp717DIssDgz5Sa7iu-12" value="">
           <mxGeometry height="50" relative="1" width="50" x="0.2167" as="geometry">
@@ -1116,23 +1116,14 @@
         <mxCell id="eJWFlB93_dIQVSEsWOKI-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=9;" value="Data pemenuhan dan komentar diperbarui" vertex="1">
           <mxGeometry height="11" width="90" x="784" y="152" as="geometry" />
         </mxCell>
-        <mxCell id="eJWFlB93_dIQVSEsWOKI-25" edge="1" parent="1" source="vsariObLKsTUToV4vn0i-2" style="endArrow=classic;html=1;rounded=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="FHzp717DIssDgz5Sa7iu-17" value="">
-          <mxGeometry height="50" relative="1" width="50" x="0.2167" as="geometry">
+        <mxCell id="eJWFlB93_dIQVSEsWOKI-25" edge="1" parent="1" source="vsariObLKsTUToV4vn0i-2" style="endArrow=classic;html=1;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="FHzp717DIssDgz5Sa7iu-17" value="">
+          <mxGeometry height="50" relative="1" width="50" x="-0.0033" as="geometry">
             <mxPoint x="627" y="140" as="sourcePoint" />
             <mxPoint x="520" y="205" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eJWFlB93_dIQVSEsWOKI-26" edge="1" parent="1" source="FHzp717DIssDgz5Sa7iu-17" style="endArrow=classic;html=1;rounded=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="vsariObLKsTUToV4vn0i-2" value="">
-          <mxGeometry height="50" relative="1" width="50" x="0.2167" as="geometry">
-            <mxPoint x="777" y="300" as="sourcePoint" />
-            <mxPoint x="700" y="344" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="eJWFlB93_dIQVSEsWOKI-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;fontSize=9;" value="Data koreksi dan komentar pemenuhan" vertex="1">
-          <mxGeometry height="11" width="90" x="635" y="260" as="geometry" />
-        </mxCell>
-        <mxCell id="eJWFlB93_dIQVSEsWOKI-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=9;" value="Informasi pemenuhan tersimpan" vertex="1">
-          <mxGeometry height="11" width="90" x="785" y="260" as="geometry" />
+          <mxGeometry height="11" width="90" x="662" y="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
