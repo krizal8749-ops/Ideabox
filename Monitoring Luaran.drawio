@@ -1401,7 +1401,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tsI2eCv6DGdSuHAvvSBy" name="Level 1 (5)">
-    <mxGraphModel dx="2117" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1642" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1457,7 +1457,7 @@
           <mxGeometry height="30" width="175" x="160" y="422.5" as="geometry" />
         </mxCell>
         <mxCell id="YAzs2Q67IOxiJMJaDcmU-7" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="66" width="120" x="460" y="402" as="geometry" />
+          <mxGeometry height="66" width="120" x="420" y="402" as="geometry" />
         </mxCell>
         <mxCell id="YAzs2Q67IOxiJMJaDcmU-8" parent="YAzs2Q67IOxiJMJaDcmU-7" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#B9E0A5;container=0;" value="" vertex="1">
           <mxGeometry height="66" width="119.99999999999999" as="geometry" />
@@ -1472,7 +1472,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YAzs2Q67IOxiJMJaDcmU-11" parent="YAzs2Q67IOxiJMJaDcmU-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;container=0;" value="&lt;font size=&quot;1&quot;&gt;REKAPITULASI CAPAIAN PEMENUHAN KONTRAK&lt;/font&gt;" vertex="1">
-          <mxGeometry height="33" width="119.99999999999999" y="24" as="geometry" />
+          <mxGeometry height="33" width="119.99999999999999" x="7.105427357601002e-15" y="24" as="geometry" />
         </mxCell>
         <mxCell id="YAzs2Q67IOxiJMJaDcmU-12" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="66" width="110" x="192.5" y="634.5" as="geometry" />
@@ -1523,7 +1523,7 @@
           <mxGeometry height="30" width="175" x="160" y="370" as="geometry" />
         </mxCell>
         <mxCell id="a9hK9znP1223A2EFcPdX-1" parent="1" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#FFF2CC;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;b style=&quot;&quot;&gt;PENELITI&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="42" width="90" x="475" y="211" as="geometry" />
+          <mxGeometry height="42" width="90" x="435" y="211" as="geometry" />
         </mxCell>
         <mxCell id="mHnhnMARABmLtrCBLxic-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=9;" value="Data skim dan kontrak" vertex="1">
           <mxGeometry height="11" width="150" y="326" as="geometry" />
@@ -1590,18 +1590,18 @@
         </mxCell>
         <mxCell id="PLA0h_qFJb9GWzCcvVtZ-1" edge="1" parent="1" source="YAzs2Q67IOxiJMJaDcmU-9" style="endArrow=classic;html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;curved=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="a9hK9znP1223A2EFcPdX-1" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="570" y="382" as="sourcePoint" />
-            <mxPoint x="658" y="330" as="targetPoint" />
+            <mxPoint x="530" y="382" as="sourcePoint" />
+            <mxPoint x="618" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PLA0h_qFJb9GWzCcvVtZ-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=9;" value="Rekapitulasi status luaran dan validasi" vertex="1">
           <mxGeometry height="11" width="90" x="307.5" y="242" as="geometry" />
         </mxCell>
         <mxCell id="PLA0h_qFJb9GWzCcvVtZ-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=9;" value="&lt;div&gt;Rekapitulasi capaian pemenuhan kontrak&lt;/div&gt;" vertex="1">
-          <mxGeometry height="11" width="90" x="526.5" y="379" as="geometry" />
+          <mxGeometry height="11" width="90" x="486.5" y="379" as="geometry" />
         </mxCell>
         <mxCell id="PLA0h_qFJb9GWzCcvVtZ-4" parent="1" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#FFF2CC;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;b style=&quot;&quot;&gt;PENELITI&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="42" width="90" x="437.5" y="646.5" as="geometry" />
+          <mxGeometry height="42" width="90" x="435" y="646.5" as="geometry" />
         </mxCell>
         <mxCell id="PLA0h_qFJb9GWzCcvVtZ-5" edge="1" parent="1" source="YAzs2Q67IOxiJMJaDcmU-16" style="endArrow=classic;html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;curved=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" target="PLA0h_qFJb9GWzCcvVtZ-4" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -1612,8 +1612,38 @@
         <mxCell id="PLA0h_qFJb9GWzCcvVtZ-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=9;" value="&lt;div&gt;Rekapitulasi pengisian dan data yang perlu ditindaklanjuti&lt;/div&gt;" vertex="1">
           <mxGeometry height="11" width="120" x="310.5" y="678.5" as="geometry" />
         </mxCell>
-        <mxCell id="PLA0h_qFJb9GWzCcvVtZ-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=9;" value="Rekapitulasi status luaran dan validasi" vertex="1">
-          <mxGeometry height="11" width="90" x="588" y="605" as="geometry" />
+        <mxCell id="PLA0h_qFJb9GWzCcvVtZ-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=9;" value="&lt;div&gt;Data pemenuhan kewajiban&lt;/div&gt;" vertex="1">
+          <mxGeometry height="11" width="90" x="380" y="511" as="geometry" />
+        </mxCell>
+        <mxCell id="PLA0h_qFJb9GWzCcvVtZ-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=9;fontColor=#0000CC;" value="&lt;div&gt;Data pemenuhan kewajiban&lt;/div&gt;" vertex="1">
+          <mxGeometry height="11" width="90" x="277.5" y="593" as="geometry" />
+        </mxCell>
+        <mxCell id="PLA0h_qFJb9GWzCcvVtZ-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;fontSize=9;fontColor=#0000CC;" value="&lt;div&gt;Data luaran penelitian&lt;/div&gt;" vertex="1">
+          <mxGeometry height="11" width="70" x="148" y="593" as="geometry" />
+        </mxCell>
+        <mxCell id="PLA0h_qFJb9GWzCcvVtZ-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=9;fontColor=#0000CC;" value="&lt;div&gt;Data status dan validasi&lt;/div&gt;" vertex="1">
+          <mxGeometry height="11" width="90" x="250" y="511" as="geometry" />
+        </mxCell>
+        <mxCell id="PLA0h_qFJb9GWzCcvVtZ-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=9;fontColor=#CC00CC;" value="&lt;div&gt;Data status dan validasi luaran&lt;/div&gt;" vertex="1">
+          <mxGeometry height="11" width="90" x="277.5" y="284" as="geometry" />
+        </mxCell>
+        <mxCell id="PLA0h_qFJb9GWzCcvVtZ-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;fontSize=9;fontColor=#CC00CC;" value="&lt;div&gt;Data luaran kontrak&lt;/div&gt;" vertex="1">
+          <mxGeometry height="11" width="70" x="148" y="284" as="geometry" />
+        </mxCell>
+        <mxCell id="PLA0h_qFJb9GWzCcvVtZ-22" edge="1" parent="1" source="n8-6sSQE39lGEaJBVqxQ-3" style="endArrow=classic;html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;curved=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="YAzs2Q67IOxiJMJaDcmU-9" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="490" y="480" as="sourcePoint" />
+            <mxPoint x="490" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PLA0h_qFJb9GWzCcvVtZ-23" edge="1" parent="1" source="n8-6sSQE39lGEaJBVqxQ-2" style="endArrow=classic;html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;curved=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="YAzs2Q67IOxiJMJaDcmU-11" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="370" y="450" as="sourcePoint" />
+            <mxPoint x="455" y="483" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PLA0h_qFJb9GWzCcvVtZ-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=9;" value="&lt;div&gt;Data kewajiban dan target kontrak&lt;/div&gt;" vertex="1">
+          <mxGeometry height="11" width="90" x="338" y="367" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
