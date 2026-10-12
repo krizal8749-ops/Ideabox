@@ -1401,7 +1401,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tsI2eCv6DGdSuHAvvSBy" name="Level 1 (5)">
-    <mxGraphModel dx="1642" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1600,7 +1600,7 @@
         <mxCell id="PLA0h_qFJb9GWzCcvVtZ-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=9;" value="&lt;div&gt;Rekapitulasi capaian pemenuhan kontrak&lt;/div&gt;" vertex="1">
           <mxGeometry height="11" width="90" x="486.5" y="379" as="geometry" />
         </mxCell>
-        <mxCell id="PLA0h_qFJb9GWzCcvVtZ-4" parent="1" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#FFF2CC;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;b style=&quot;&quot;&gt;PENELITI&lt;/b&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="PLA0h_qFJb9GWzCcvVtZ-4" parent="1" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#FFF2CC;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;b style=&quot;&quot;&gt;ADMIN /&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;b style=&quot;&quot;&gt;VALIDATOR&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="42" width="90" x="435" y="646.5" as="geometry" />
         </mxCell>
         <mxCell id="PLA0h_qFJb9GWzCcvVtZ-5" edge="1" parent="1" source="YAzs2Q67IOxiJMJaDcmU-16" style="endArrow=classic;html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;curved=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" target="PLA0h_qFJb9GWzCcvVtZ-4" value="">
